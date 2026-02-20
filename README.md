@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alex Bravo
 
 **Passionate about technology and how things are built.**  
-I thrive on observability, task automation, and — most importantly — having fun at work while contributing to and collaborating with my team.
+I thrive on observability, task automation, and — most importantly — having fun at work while contributing to and collaborating with my team and friends.
 
 ---
 
